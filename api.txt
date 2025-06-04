@@ -1,0 +1,8 @@
+{
+  "toast": false,
+  "success": true,
+  "retry": false,
+  "msg": "Не удалось обработать: Empty request!",
+  "unexpected": false,
+  "customPackHandled": false
+}
